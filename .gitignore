@@ -1,7 +1,7 @@
-# Compiled class file
+# Compiled class files
 *.class
 
-# Log file
+# Log files
 *.log
 
 # BlueJ files
@@ -10,7 +10,7 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# Package files
 *.jar
 *.war
 *.nar
@@ -19,6 +19,71 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# Virtual machine crash logs
 hs_err_pid*
 replay_pid*
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle files
+.gradle/
+build/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# NetBeans files
+nbproject/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Application-specific files
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Docker files
+docker-compose.override.yml
+Dockerfile
+
+# JetBrains IDE files (including IntelliJ, WebStorm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Logs
+*.log
+*.gz
+*.tar.gz
+*.zip
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Gradle files
+.gradle/
+build/
